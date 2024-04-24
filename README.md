@@ -1,4 +1,4 @@
-# Daten Visualisierung - Balkendiagramm
+# Daten Visualisierung - Balkendiagramm [![Netlify Status](https://api.netlify.com/api/v1/badges/201e7fb6-4098-4c20-a6ca-089607caf62a/deploy-status)](https://app.netlify.com/sites/bar-chart-with-3djs/deploys)
 
 Dieses Projekt ist Teil des Zertifikatskurses "Data Visualization" auf [freeCodeCamp.org](https://www.freecodecamp.org/). Es verwendet Daten aus dem [freeCodeCamp GDP Daten-Repository](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json) und erstellt ein Balkendiagramm zur Visualisierung dieser Daten.
 
