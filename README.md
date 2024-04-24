@@ -18,13 +18,13 @@ Die JSON-Daten für dieses Projekt werden von freeCodeCamp bereitgestellt. Du ka
 1. Klone das Repository:
 
 ```bash
-git clone https://github.com/dein-benutzername/dein-projekt.git
+git clone https://github.com/mariokreitz/d3-bar-chart.git
 ```
 
 2. Installiere die Abhängigkeiten:
 
 ```bash
-cd dein-projekt
+cd d3-bar-chart
 npm install
 ```
 
@@ -34,8 +34,8 @@ npm install
 npm run dev
 ```
 
-Die Anwendung sollte nun unter `http://localhost:3000` verfügbar sein.
+Die Anwendung sollte nun unter `http://localhost:5173/` verfügbar sein.
 
 ## Lizenz
 
-Dieses Projekt ist unter der [MIT-Lizenz](https://github.com/dein-benutzername/dein-projekt/blob/main/LICENSE) lizenziert.
+Dieses Projekt ist unter der [MIT-Lizenz](https://github.com/mariokreitz/d3-bar-chart/blob/main/LICENSE) lizenziert.
