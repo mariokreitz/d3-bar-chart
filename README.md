@@ -1,8 +1,41 @@
-# React + Vite
+# Daten Visualisierung - Balkendiagramm
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dieses Projekt ist Teil des Zertifikatskurses "Data Visualization" auf [freeCodeCamp.org](https://www.freecodecamp.org/). Es verwendet Daten aus dem [freeCodeCamp GDP Daten-Repository](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json) und erstellt ein Balkendiagramm zur Visualisierung dieser Daten.
 
-Currently, two official plugins are available:
+## Datenquelle
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Die JSON-Daten für dieses Projekt werden von freeCodeCamp bereitgestellt. Du kannst die Daten [hier herunterladen](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json).
+
+## Technologien
+
+- **React**: Eine JavaScript-Bibliothek zur Erstellung von Benutzeroberflächen.
+- **Vite**: Ein schnelles Build-Tool für moderne Web-Projekte.
+- **D3**: Eine JavaScript-Bibliothek zur Manipulation von Dokumenten basierend auf Daten.
+- **react-loader-spinner**: Eine Bibliothek für Ladeindikatoren in React-Anwendungen.
+
+## Installation
+
+1. Klone das Repository:
+
+```bash
+git clone https://github.com/dein-benutzername/dein-projekt.git
+```
+
+2. Installiere die Abhängigkeiten:
+
+```bash
+cd dein-projekt
+npm install
+```
+
+3. Starte die Anwendung:
+
+```bash
+npm run dev
+```
+
+Die Anwendung sollte nun unter `http://localhost:3000` verfügbar sein.
+
+## Lizenz
+
+Dieses Projekt ist unter der [MIT-Lizenz](https://github.com/dein-benutzername/dein-projekt/blob/main/LICENSE) lizenziert.
